@@ -1,0 +1,15 @@
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\bin\Debug\net6.0\OOP_3laba.exe
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\bin\Debug\net6.0\OOP_3laba.deps.json
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\bin\Debug\net6.0\OOP_3laba.runtimeconfig.json
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\bin\Debug\net6.0\OOP_3laba.dll
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\bin\Debug\net6.0\OOP_3laba.pdb
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\OOP_3laba.csproj.AssemblyReference.cache
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\OOP_3laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\OOP_3laba.AssemblyInfoInputs.cache
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\OOP_3laba.AssemblyInfo.cs
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\OOP_3laba.csproj.CoreCompileInputs.cache
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\OOP_3laba.dll
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\refint\OOP_3laba.dll
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\OOP_3laba.pdb
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\OOP_3laba.genruntimeconfig.cache
+C:\Users\Notnex\source\repos\OOP_3laba\OOP_3laba\obj\Debug\net6.0\ref\OOP_3laba.dll
