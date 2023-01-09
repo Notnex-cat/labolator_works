@@ -1,0 +1,15 @@
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\bin\Debug\net6.0\laba7_oop.exe
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\bin\Debug\net6.0\laba7_oop.deps.json
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\bin\Debug\net6.0\laba7_oop.runtimeconfig.json
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\bin\Debug\net6.0\laba7_oop.dll
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\bin\Debug\net6.0\laba7_oop.pdb
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\laba7_oop.csproj.AssemblyReference.cache
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\laba7_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\laba7_oop.AssemblyInfoInputs.cache
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\laba7_oop.AssemblyInfo.cs
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\laba7_oop.csproj.CoreCompileInputs.cache
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\laba7_oop.dll
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\refint\laba7_oop.dll
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\laba7_oop.pdb
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\laba7_oop.genruntimeconfig.cache
+C:\Users\Notnex\source\repos\laba7_oop\laba7_oop\obj\Debug\net6.0\ref\laba7_oop.dll
