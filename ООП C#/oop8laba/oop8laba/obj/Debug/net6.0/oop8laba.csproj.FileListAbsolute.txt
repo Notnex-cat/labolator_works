@@ -1,0 +1,15 @@
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\oop8laba.csproj.AssemblyReference.cache
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\oop8laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\oop8laba.AssemblyInfoInputs.cache
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\oop8laba.AssemblyInfo.cs
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\oop8laba.csproj.CoreCompileInputs.cache
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\bin\Debug\net6.0\oop8laba.exe
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\bin\Debug\net6.0\oop8laba.deps.json
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\bin\Debug\net6.0\oop8laba.runtimeconfig.json
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\bin\Debug\net6.0\oop8laba.dll
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\bin\Debug\net6.0\oop8laba.pdb
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\oop8laba.dll
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\refint\oop8laba.dll
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\oop8laba.pdb
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\oop8laba.genruntimeconfig.cache
+C:\Users\Notnex\source\repos\oop8laba\oop8laba\obj\Debug\net6.0\ref\oop8laba.dll
